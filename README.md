@@ -11,7 +11,7 @@
 
 ```rust
 fn main() {
-    let name = "kiyra";
+    let name = "etokiyra";
     let languages = vec!["Rust"];
     let os = "Void Linux";
 
