@@ -1,4 +1,4 @@
-<h1 align="center">kiyra</h1>
+<h1 align="center">etokiyra</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Void_Linux-478061?style=flat-square&logo=voidlinux&logoColor=white" />
