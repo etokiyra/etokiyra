@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">kiyra</h1>
 
-<!--
-**etokiyra/etokiyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Void_Linux-478061?style=flat-square&logo=voidlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `~ > cat whoami.rs`
+
+```rust
+fn main() {
+    let name = "kiyra";
+    let languages = vec!["Rust"];
+    let os = "Void Linux";
+
+    println!("hi, i'm {}.", name);
+    println!("i code in {}.", languages.join(", "));
+    println!("running {}.", os);
+}
+```
+
+---
+
+> *[ paste your quote here ]*
+
+---
+
