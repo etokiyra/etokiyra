@@ -17,7 +17,7 @@ package main
 import "fmt"
 
 func main() {
-    name := "kiyra"
+    name := "etokiyra"
     languages := []string{"Go"}
     os := "Artix Linux"
 
