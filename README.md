@@ -2,10 +2,8 @@
 
 # etokiyra
 
-<sub>Artix Linux · Go</sub>
+<sub>Artix Linux · Go · Python · Rust</sub>
 
-![Artix Linux](https://img.shields.io/badge/Artix_Linux-10A0CC?style=flat-square&logo=artixlinux&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 </div>
 
