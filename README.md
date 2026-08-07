@@ -16,7 +16,7 @@ import "fmt"
 
 func main() {
     name := "etokiyra"
-    languages := []string{"Go"}
+    languages := []string{"Go, Rust, Python"}
     os := "Artix Linux"
 
     fmt.Printf("hi, i'm %s.\n", name)
