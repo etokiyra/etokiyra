@@ -2,7 +2,7 @@
 
 # etokiyra
 
-<sub>Artix Linux · Go · Python · Rust</sub>
+<sub>EndeavourOS · Go · Python · Rust</sub>
 
 
 </div>
@@ -17,7 +17,7 @@ import "fmt"
 func main() {
     name := "etokiyra"
     languages := []string{"Go, Rust, Python"}
-    os := "Artix Linux"
+    os := "EndeavourOS"
 
     fmt.Printf("hi, i'm %s.\n", name)
     fmt.Printf("i code in %s.\n", languages[0])
