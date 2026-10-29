@@ -7,8 +7,8 @@
   ·          ✦          ·               ☾           ✧   
     ✧                                           ·       
                       /\_/\                             
-                     ( o . o )                          
-                      > ^ <    ~                        
+                     ( o.o )                            
+                      > ^ <   ~                         
                                    ·     ✦              
       ✦                     ·               ✧           
      ──────────────────────────────────────────────     
@@ -122,14 +122,14 @@ byte-identical C to the Go reference at every stage.*
 
 ## ✦ github
 
-<img src="https://github-readme-stats.vercel.app/api?username=etokiyra&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=e29eca&text_color=aca1cf&icon_color=e6b99d" height="150" alt="etokiyra's github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etokiyra&layout=compact&hide_border=true&langs_count=8&size_weight=0.3&bg_color=00000000&title_color=90b99f&text_color=aca1cf" height="150" alt="most-used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=etokiyra&theme=gruvbox" width="500" alt="etokiyra — profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=etokiyra&theme=gruvbox" width="500" alt="languages across repositories" />
 
 <br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=etokiyra&color=e29eca&style=flat-square&label=cursor+blinks+for" />
-  <img src="https://img.shields.io/badge/%F0%9F%96%A5%20EndeavourOS-Hyprland%20-%20foot-606ca8?style=flat-square" />
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20desktop-EndeavourOS%20%C2%B7%20Hyprland%20%C2%B7%20foot-606ca8?style=flat-square" />
   <img src="https://img.shields.io/badge/%E2%9C%A6%20caelestia-palette%20from%20wallpaper-aca1cf?style=flat-square" />
 </p>
 
