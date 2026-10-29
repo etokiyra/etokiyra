@@ -122,8 +122,8 @@ byte-identical C to the Go reference at every stage.*
 
 ## ✦ github
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=etokiyra&theme=gruvbox" width="500" alt="etokiyra — profile summary" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=etokiyra&theme=gruvbox" width="500" alt="languages across repositories" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=etokiyra&title_color=e29eca&text_color=aca1cf&icon_color=e6b99d&chart_color=90b99f&bg_color=00000000&border_color=00000000" width="500" alt="etokiyra — profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=etokiyra&title_color=e29eca&text_color=aca1cf&icon_color=e6b99d&chart_color=90b99f&bg_color=00000000&border_color=00000000" width="500" alt="languages across repositories" />
 
 <br>
 
