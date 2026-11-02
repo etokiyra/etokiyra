@@ -51,7 +51,7 @@ rpgs drawn in glyphs. all of it midnight-tinted.*
 
 | ✧ | repo | notes |
 |:---:|:----------|:------|
-| ✦ | [**koda**](https://github.com/etokiyra/koda) — *your cozy little coding space* | terminal-native IDE: 27 languages with built-in intelligence, language servers when you ask for them, managed toolchains you can verify — it never paints over your terminal theme. **Rust** |
+| ✦ | [**kemori**](https://github.com/etokiyra/kemori) — *your cozy little coding space* | terminal-native IDE: 27 languages with built-in intelligence, language servers when you ask for them, managed toolchains you can verify — it never paints over your terminal theme. **Rust** |
 | ♡ | [**kitten**](https://github.com/etokiyra/kitten) — *a language learning to compile itself* | `purr` emitter, no null, no UB, exhaustive `match`; the self-hosted stages already agree **byte-for-byte** with the Go reference. **Go · C** |
 | ◍ | [**vynl**](https://github.com/etokiyra/vynl) — *a DJ booth that fits in your terminal* | true FFT spectrum, vinyl-coupled tempo & pitch, Linkwitz–Riley 3-way EQ, gapless, no GUI. **Go · DSP** |
 | ⛧ | [**grimmoire**](https://github.com/etokiyra/grimmoire) — *a dark-fantasy RPG drawn in glyphs* | no sprites, no graphics protocol — glyphs, ink and light; characters who remember what you asked. **Rust** |
